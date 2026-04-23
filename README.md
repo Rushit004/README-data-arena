@@ -5,7 +5,7 @@
 [⚡ Skill Forge](https://github.com/Rushit004/README-skill-forge) &nbsp;·&nbsp;
 [🧪 Innovation Lab](https://github.com/Rushit004/README-innovation-lab) &nbsp;·&nbsp;
 **📊 Data Arena** &nbsp;·&nbsp;
-[🚀 LaunchPad](https://github.com/Rushit004/Rushit004)
+[🚀 LaunchPad](https://github.com/Rushit004/README-launchpad)
 
 </div>
 
