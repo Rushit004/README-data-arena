@@ -34,7 +34,7 @@ This is my analytics zone. Every repo here takes raw, messy data and turns it in
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-1e293b?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/Rushit004/excel-data-analysis-portfolio)
-![Status](https://img.shields.io/badge/Status-Complete-6366f1?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
 
 ---
 
