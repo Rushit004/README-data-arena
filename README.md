@@ -1,12 +1,12 @@
 <!-- NAVIGATION BAR -->
-<div align="center">
 
+<div align="center">
+  
 [🏠 Profile](https://github.com/Rushit004) &nbsp;·&nbsp;
 [⚡ Skill Forge](https://github.com/Rushit004/README-skill-forge) &nbsp;·&nbsp;
 [🧪 Innovation Lab](https://github.com/Rushit004/README-innovation-lab) &nbsp;·&nbsp;
 **📊 Data Arena** &nbsp;·&nbsp;
 [🚀 LaunchPad](https://github.com/Rushit004/README-launchpad)
-
 </div>
 
 ---
@@ -26,6 +26,7 @@ This is my analytics zone. Every repo here takes raw, messy data and turns it in
 ---
 
 ### [excel-data-analysis-portfolio](https://github.com/Rushit004/excel-data-analysis-portfolio)
+
 > 5 real-world datasets analysed end-to-end — data cleaning, pivot tables, and interactive dashboards in Excel.
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
@@ -34,6 +35,20 @@ This is my analytics zone. Every repo here takes raw, messy data and turns it in
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-1e293b?style=flat-square)
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/excel-data-analysis-portfolio)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
+
+---
+
+### [powerbi-data-analytics-portfolio](https://github.com/Rushit004/powerbi-data-analytics-portfolio)
+
+> IPL all-seasons data analysed end-to-end — Power Query transformations, data modeling, DAX measures, and an interactive multi-page dashboard in Power BI.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-334155?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-38bdf8?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power%20Query-1e293b?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/powerbi-data-analytics-portfolio)
 ![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
 
 ---
