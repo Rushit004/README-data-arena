@@ -53,8 +53,20 @@ This is my analytics zone. Every repo here takes raw, messy data and turns it in
 
 ---
 
-<!-- ADD YOUR NEXT PROJECT ABOVE THIS LINE -->
+### [python-data-analytics-portfolio](https://github.com/Rushit004/python-data-analytics-portfolio)
 
+> A collection of end-to-end Python data analytics projects covering data cleaning, exploratory data analysis (EDA), statistical analysis, feature engineering, data visualization, and machine learning using real-world datasets.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-334155?style=flat-square)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/python-data-analytics-portfolio)
+![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=for-the-badge)
+
+<!-- ADD YOUR NEXT PROJECT ABOVE THIS LINE -->
 <div align="center">
 <sub>
 <a href="https://github.com/Rushit004">← Back to Profile</a> &nbsp;·&nbsp;
