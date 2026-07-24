@@ -41,12 +41,14 @@ This is my analytics zone. Every repo here takes raw, messy data and turns it in
 
 ### [powerbi-data-analytics-portfolio](https://github.com/Rushit004/powerbi-data-analytics-portfolio)
 
-> IPL all-seasons data analysed end-to-end — Power Query transformations, data modeling, DAX measures, and an interactive multi-page dashboard in Power BI.
+> 5 end-to-end Power BI dashboards across sports, retail, and financial analytics — Power Query transformations, star-schema data modeling,paginated reports, and Power Automate-driven data pipelines powering interactive multi-page dashboards, from IPL match analytics to an automated financial credit-risk reporting system.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-334155?style=flat-square)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-38bdf8?style=flat-square)
 ![Power Query](https://img.shields.io/badge/Power%20Query-1e293b?style=flat-square)
+![Paginated Reports](https://img.shields.io/badge/Paginated%20Reports-334155?style=flat-square)
+![Python Automation](https://img.shields.io/badge/Python%20Automation-3776AB?style=flat-square&logo=python&logoColor=white)
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/powerbi-data-analytics-portfolio)
 ![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
