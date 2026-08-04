@@ -68,7 +68,25 @@ This is my analytics zone. Every repo here takes raw, messy data and turns it in
 [![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/python-data-analytics-portfolio)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=for-the-badge)
 
+---
+
+### [50-Kaggle-Notebooks](https://github.com/Rushit004/50-Kaggle-Notebooks)
+
+> 50 Kaggle notebooks across 50 different datasets — EDA, feature engineering, and model comparisons spanning the full data science lifecycle from regression to computer vision.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![50 Datasets](https://img.shields.io/badge/50%20Datasets-334155?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/50-Kaggle-Notebooks)
+![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=for-the-badge)
+
+
 <!-- ADD YOUR NEXT PROJECT ABOVE THIS LINE -->
+
 <div align="center">
 <sub>
 <a href="https://github.com/Rushit004">← Back to Profile</a> &nbsp;·&nbsp;
