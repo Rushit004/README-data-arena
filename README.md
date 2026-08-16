@@ -99,6 +99,21 @@ This is my analytics zone. Every repo here takes raw, messy data and turns it in
 [![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/EHIAS)
 ![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
 
+---
+
+### [ElectroSQL](https://github.com/Rushit004/ElectroSQL)
+
+> A scraped electronics-marketplace dataset cleaned and analyzed entirely in MySQL — regex-based price and rating extraction, window-function percentiles via a stored procedure, and hand-written covariance, correlation, and regression across univariate, bivariate, and multivariate analysis.
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-334155?style=flat-square)
+![Window Functions](https://img.shields.io/badge/Window%20Functions-1e293b?style=flat-square)
+![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-38bdf8?style=flat-square)
+![Regex Extraction](https://img.shields.io/badge/Regex%20Extraction-334155?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/ElectroSQL)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
+
 
 <!-- ADD YOUR NEXT PROJECT ABOVE THIS LINE -->
 
