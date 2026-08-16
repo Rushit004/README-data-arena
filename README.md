@@ -84,6 +84,21 @@ This is my analytics zone. Every repo here takes raw, messy data and turns it in
 [![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/50-Kaggle-Notebooks)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=for-the-badge)
 
+---
+
+### [EHIAS](https://github.com/Rushit004/EHIAS)
+
+> A hospital's Excel-based records migrated into a normalized MySQL schema, with a validation trigger against bad scheduling and stored procedures for role-based doctor access and on-demand department revenue reports.
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Data Migration](https://img.shields.io/badge/Data%20Migration-334155?style=flat-square)
+![Triggers](https://img.shields.io/badge/Triggers-1e293b?style=flat-square)
+![Stored Procedures](https://img.shields.io/badge/Stored%20Procedures-38bdf8?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-334155?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rushit004/EHIAS)
+![Status](https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge)
+
 
 <!-- ADD YOUR NEXT PROJECT ABOVE THIS LINE -->
 
